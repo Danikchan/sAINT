@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tiagorlampert/sAINT/master/content/logo.png">
 </p>
 
-<h1 align="center">(s)AINT</h1>
+<h1 align="center">(s)AINT for Kali Nethunter</h1>
 <p align="center">
   <a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java-8-red.svg">
@@ -20,6 +20,7 @@
 
 <p align="center">
   (s)AINT is a Spyware Generator for Windows systems written in Java.
+  It works in Kali Nethunter.
 </p>
 
 ## Disclaimer
@@ -36,7 +37,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 - [x] Persistence
 
 ## Tested On
-[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Nethunter 3.0 (Rolling) on Xiaomi Redmi 3X with Beacon 4 kernel**
 
 ## How To Use
 ```bash
@@ -44,10 +45,10 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ apt install maven default-jdk default-jre openjdk-8-jdk openjdk-8-jre -y
 
 # To generate a .EXE using launch4j are necessary the following packages
-$ apt install zlib1g-dev libncurses5-dev lib32z1 lib32ncurses5 -y
+$ apt install zlib1g-dev libncurses5-dev -y
 
 # Clone this repository
-$ git clone https://github.com/tiagorlampert/sAINT.git
+$ git clone https://github.com/TheUnderMind0x41/sAINT.git
 
 # Go into the repository
 $ cd sAINT
@@ -115,7 +116,8 @@ $ java -jar sAINT.jar
 To uninstall run <a href="https://github.com/tiagorlampert/sAINT/blob/master/content/UNINSTALL.bat">UNINSTALL.bat</a> with administrative permissions.
 
 ## Contact
-:email: **tiagorlampert@gmail.com**
+:email: **tiagorlampert@gmail.com** - Original Project
+:email: **exxxim@gmail.com** - Kali Nethunter Edition
 
 ## License
 
