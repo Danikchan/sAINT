@@ -117,6 +117,7 @@ To uninstall run <a href="https://github.com/tiagorlampert/sAINT/blob/master/con
 
 ## Contact
 :email: **tiagorlampert@gmail.com** - Original Project
+
 :email: **exxxim@gmail.com** - Kali Nethunter Edition
 
 ## License
